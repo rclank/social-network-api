@@ -73,8 +73,10 @@ const userController = {
     }
 
     // add friend to user list
+        // not sure how to do this
 
     // delete friend from user list
+        // not sure how to do this
 };
 
 module.exports = userController;

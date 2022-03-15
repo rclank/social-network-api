@@ -22,5 +22,6 @@ router
     .delete(deleteUser);
 
 // friend routes
+// not sure how to do these controllers
 
 module.exports = router;
