@@ -71,6 +71,10 @@ const userController = {
             })
             .catch(err => rs.status(400).json(err));
     }
+
+    // add friend to user list
+
+    // delete friend from user list
 };
 
 module.exports = userController;
